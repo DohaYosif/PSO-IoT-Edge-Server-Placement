@@ -1,0 +1,2 @@
+# Optimized-localization-of-Edge-Nodes-in-IoT-Based-System-for-Efficient-Data-Delivery
+The rapid growth of IoT devices increases network congestion, latency, and energy consumption. This project uses Particle Swarm Optimization (PSO) to determine the optimal placement of Edge and Server nodes and evaluates the network in Contiki-NG using RPL. Results show improved latency, energy efficiency, load balancing, and network performance.
